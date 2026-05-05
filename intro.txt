@@ -1,0 +1,2 @@
+name = "Lakhan"
+print(f"my name is name:{name}")

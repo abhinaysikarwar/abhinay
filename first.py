@@ -2,10 +2,12 @@ n1=20
 n2=30
 n1, n2 = n2, n1
 #print(f"n1={n1} n2={n2}")
+
 char1 = "hello"
 char2 = "java"
 char1, char2 = char2, char1
 #print(f"char1={char1} char2={char2}")
+
 n1 = 200
 char2 = "java"
 n1, char2 = char2, n1
@@ -22,11 +24,21 @@ name="abhi"
 
 num1=50
 num2=20
-print(type(num1),type(num2))
+#print(type(num1),type(num2))
 res=str(num1)+str(num2)
-print(res)
+#print(res)
 #print(type(res))
 
 num1=40
 num2=10
-pritn(type(num1),type(num2))
+#print(type(num1),type(num2))
+#res=str(num1)+str(num2)
+#print(res)
+
+current_balance = 10000
+deposite_balance = 5000
+current_balance=int(current_balance)+int(deposite_balance)
+print(f"current_balance:{current_balance}")
+
+
+
