@@ -42,7 +42,31 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
 # ==
 # !=
 
+# 4. Logical opr (and,or,not)
+#n1=1
+#n2=2
+#res=n1==1 and n2==3 and n1==2 and n2==3
+#res=not(n1==1 or n2==3 or n1==2 or n2==3)
+#print(res)
 
+
+# 5. membership opr ()
+
+#str1="this is pyton for devops"
+#find="this"
+#print(find in str1)
+
+#num1="4567"
+#print("4" not in num1)
+
+email="lakhansikarwar00gmail.com"
+find="12"
+print(find in email)
+
+
+email="lakhansikarwar00gmail.com"
+find="00"
+print(find in email)
 
 
 
