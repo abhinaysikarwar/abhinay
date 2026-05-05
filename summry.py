@@ -59,18 +59,47 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
 #num1="4567"
 #print("4" not in num1)
 
+#email="lakhansikarwar00gmail.com"
+#find="12"
+#print(find in email)
+
+
+#email="lakhansikarwar00gmail.com"
+#find="00"
+#print(find in email)
+
 email="lakhansikarwar00gmail.com"
-find="12"
-print(find in email)
-
-
-email="lakhansikarwar00gmail.com"
-find="00"
-print(find in email)
 
 
 
 
+
+
+
+#aman_age=20
+#abhisel_age=30
+#if aman_age > abhisel_age:
+ #   print("yes aman's age in more than abhisel")
+#else:
+ #   print("no aman's age is not ,more than abhisek")
+
+#user is eligble for voting:
+#min_age=18
+#user_age=int(input("enter your age :"))
+#if user_age >= min_age:
+ #   print("user is eligble for voting")
+#else:
+ #   print("user is not eligble for voting")
+
+
+min_age=18
+nationality="IN"
+user_age=int(input("enter your age :"))
+user_id=input("enter your identiy(ex.IN):")
+if user_age >= min_age: and user_id==nationality:
+    print("user is eligble for voting")
+else:
+    print("user is not eligble for voting")
 
 
 
