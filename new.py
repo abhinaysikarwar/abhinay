@@ -1,9 +1,9 @@
-x='hello'
-y=3
-#print(x/y)
-#print=input()
-x='10'
-y='2'
-#print(int(x)*y)
-x='3.3'
-print(str(x))
+# x='hello'
+# y=3
+# #print(x/y)
+# #print=input()
+# x='10'
+# y='2'
+# #print(int(x)*y)
+# x='3.3'
+# print(str(x))

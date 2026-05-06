@@ -84,20 +84,20 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
  #   print("user is not eligble for voting")
 
 
-min_age=18
-nationality="IN"
-user_age=int(input("enter your age :"))
-user_id=input("enter your identiy(ex.IN):")
-if user_age >= min_age: and user_id==nationality:
-    #print("user is eligble for voting")
-else:
-    #print("user is not eligble for voting")
+#min_age=18
+#nationality="IN"
+#user_age=int(input("enter your age :"))
+#user_id=input("enter your identiy(ex.IN):")
+#if user_age >= min_age: and user_id==nationality:
+#    #print("user is eligble for voting")
+#else:
+#    #print("user is not eligble for voting")
 
-a=5
-if a:
-    print("yes")
-else:
-    print("no")
+#a=5
+#if a:
+#    print("yes")
+#else:
+#    print("no")
 
 
 
