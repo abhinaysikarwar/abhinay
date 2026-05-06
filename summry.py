@@ -50,7 +50,7 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
 #print(res)
 
 
-# 5. membership opr ()
+# 5. membership opr (in , not in)
 
 #str1="this is pyton for devops"
 #find="this"
@@ -67,14 +67,6 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
 #email="lakhansikarwar00gmail.com"
 #find="00"
 #print(find in email)
-
-email="lakhansikarwar00gmail.com"
-
-
-
-
-
-
 
 #aman_age=20
 #abhisel_age=30
@@ -97,11 +89,15 @@ nationality="IN"
 user_age=int(input("enter your age :"))
 user_id=input("enter your identiy(ex.IN):")
 if user_age >= min_age: and user_id==nationality:
-    print("user is eligble for voting")
+    #print("user is eligble for voting")
 else:
-    print("user is not eligble for voting")
+    #print("user is not eligble for voting")
 
-
+a=5
+if a:
+    print("yes")
+else:
+    print("no")
 
 
 
