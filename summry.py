@@ -100,8 +100,10 @@ student_profile = """Hello my self this and i am a 'devops intern' looking for s
 #    print("no")
 
 
-
-
+name = "Dev"
+if name=="Dev":
+     print("yes name is provided")
+      
 
 
 
