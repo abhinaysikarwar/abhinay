@@ -64,7 +64,7 @@
 # start_point=int(input("Enter start point :"))
 # end_point=int(input("Enter end point :"))
 # print("number divisble by 2 and 3")
-# for num in range (start_point,end_point, +1):
+# for num in range (start_point,end_point):
 #     if num % 2 ==0 and num % 3 ==0:
 #         print(num)
 
@@ -79,3 +79,6 @@
 # num=int(input("Enter the number :"))
 # for i in range(10,0,-1):
 #     print(f"{num} * {i} = {num * i}")
+
+# 1. Read again and again in your mind
+# 2. problem requirements.
