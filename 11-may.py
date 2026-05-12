@@ -50,3 +50,64 @@
 # for i in range(1,num+1):
 #     factorial=factorial*i 
 # print(f"factorial= {factorial}")
+
+# total=0
+# for i in range(1,20):
+#     total=total+i
+# print("total=", total)
+
+# total=0
+# for i in range(1,11):
+#     total=total+i
+# print("total=", total)
+
+
+# num=int(input("Enter the number :"))
+# factorial=1
+# for i in range(1,num+1):
+#     factorial=factorial * i
+# print("factorial=",factorial)
+
+
+# num=[10, 20, 30,40]
+# count=0
+# for i in num:
+#     count=count+1
+# print("count=",count)
+
+# num=[1,2,3,4,5,6,7,8,9]
+# count=0
+# for i in num:
+#     count=count+1
+# print("count=",count)
+
+
+# name="Lakhan"
+# size=len(name)
+# for i in range(size):
+#     print(name[i], name,i)
+
+# name = "Lakhan"
+# for i in name:
+#     print(i)
+
+# name="Lakhan"
+# count=0
+# for i in name:
+#     if i in "aeiouAEIOU":
+#         count=count+1
+# print("count=",count)
+
+# text="my name is abhinay sikarwar"
+# count=0
+# for i in text:
+#     if i in "aeiouAEIOU":
+#         count=count+1
+# print("count=",count)
+
+# num=[4,8,2,10,6]
+# largest=num[0]
+# for i in num:
+#     if i > largest:
+#         largest = i
+# print("largest=",largest)
