@@ -69,14 +69,14 @@
 # wap to print only prime number from 1 to 15:
 
 
-for num in range(1,15):
-    if num > 1:
-        for i in range(1,num):
-            if num %  i == 0:
-                print(num,end=" ")
+# for num in range(1,15):
+#     if num > 1:
+#         for i in range(1,num):
+#             if num %  i == 0:
+#                 print(num,end=" ")
 
 
- c=0
+#  c=0
 # a="this is python"
 # for i in a:
 #     if i==" ":
@@ -107,3 +107,8 @@ for num in range(1,15):
 #     if i not in number:
 #         c+=1       
 # print(c)
+
+total=0
+for i in range(1,6):
+    total=total+i
+    print("total=",total)
