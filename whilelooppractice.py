@@ -88,11 +88,22 @@
 n="this is python"
 count=0
 v="aeiou"
-while count in n:
+while v in (n):
     if v in n:
-
         count=count+1
+    v=v+1
 print("count=",count)
+
+# sum of evev number 1 to 15:
+
+# total=0
+# num=1
+# while 1<=num<=15:
+#     if num %2==0:
+#         total=total+num
+#     num=num+1
+# print("total=",total)
+  
 
 
 
