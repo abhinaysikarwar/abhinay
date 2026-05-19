@@ -85,14 +85,10 @@
 #     num=num+1
 # print("total=",total)
 
-n="this is python"
-count=0
-v="aeiou"
-while v in (n):
-    if v in n:
-        count=count+1
-    v=v+1
-print("count=",count)
+# str1="this is python"
+# size=len(str1)
+# while n<=size:
+#     print
 
 # sum of evev number 1 to 15:
 
@@ -103,7 +99,14 @@ print("count=",count)
 #         total=total+num
 #     num=num+1
 # print("total=",total)
-  
+
+# wap to print formarted table on a number give by user.
+
+# n1=int(input("enter the number :"))
+# i=1
+# while i<=10:
+#     print(f"{n1} * {i} = {n1*i}")  
+#     i+=1
 
 
 
