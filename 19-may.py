@@ -83,13 +83,13 @@
 #     print("shi se input lo")
 
 
-def add(a,b):
+# def add(a,b):
 
 
 
-def greet(a):
-    return a 
-g=greet("Namaste")
+# def greet(a):
+#     return a 
+# g=greet("Namaste")
 
-def user_name(a):
-    retrun a
+# def user_name(a):
+#     retrun a
