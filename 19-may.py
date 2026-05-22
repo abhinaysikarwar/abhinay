@@ -171,12 +171,75 @@
 
 
 
-def len_string(s):
-    print(s)
-    c=0
-    for i in s:
-        print(i)
-        c=c+1
-    return c
-res=len_string("python")
-print(res)
+# def len_string(s):
+#     print(s)
+#     c=0
+#     for i in s:
+#         print(i)
+#         c=c+1
+#     return c
+# res=len_string("python")
+# print(res)
+
+# wap to check given how may  vowel in given string:
+
+#
+# def vowel_check(x):
+#     c=0
+#     for i in x:
+#         if i in "aeiouAEIOU":
+#             c+=1
+#     return c
+# res=vowel_check("This is python for deveops")
+# print(res)
+
+
+# Local variable vs Global variable:
+
+# def msg(): 
+#     global
+#     name="Dev"
+#     print("Inside:",name)
+# msg()
+# print("Oustside:",name)
+
+# waf to count char "p" in "python programming" return total occuren:
+
+# def retrun_occurence(b):
+#     c=0
+#     for i in  b:
+#         if i in "p" :
+#             c+=1
+#     return c
+# res=retrun_occurence("python programming")
+# print(res)
+
+
+# waf to return sum of strings indexes:
+
+# def sum_indexes(y):
+#     n=0
+#     for i in range(len(y)):
+#         n=n+i
+#     return n
+# res=sum_indexes("python")
+# print(res)
+
+# def b(name):
+#     c=0
+#     c=len(name)
+#     for i in name:
+#         c=c+0
+#     return c
+# res=b("abhinay")
+# print(res)
+
+
+
+# def b(name):
+#     c=0
+#     for i in range (len(name)):
+#         c=c+i
+#     return c
+# res=b("abhinay")
+# print(res)

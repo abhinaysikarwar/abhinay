@@ -80,3 +80,81 @@
 #     div(num1,num2)
 # else:
 #     print("Input is wrong")
+
+
+# today question :
+
+# def area(base,height):
+#     area=(base*height)/2
+#     return area
+# res=area(10,6)
+# print(res)
+
+
+# def perimeter(side):
+#     perimeter=side*4
+#     return perimeter
+# res=perimeter(9)
+# print(res)
+
+
+# def diameter(radius):
+#     diameter=2*radius
+#     return diameter
+# res=diameter(14)
+# print(res)
+
+
+# def volume_cube(side):
+#     cube= side*side*side
+#     return cube
+# res=volume_cube(5)
+# print(res)
+
+
+# def cuboid(l,b,h):
+#     cuboid=2*(l*b+b*h+l*h)
+#     return cuboid
+# res=cuboid(4,3,2)
+# print(res)
+
+
+# def square_of_sum(x,y):
+#     sum=(x+y)**2
+#     return sum
+# res=square_of_sum(5,7)
+# print(res)
+
+
+# def simplify(x):
+#     expression=x*x - 4*x + 4 
+#     return expression
+# res=simplify(3)
+# print(res) 
+
+
+# def evaluate(a,b):
+#     evaluate=a+b,a-b
+#     return evaluate
+# res=evaluate(6,2)
+# print(res)
+
+
+# def cubes_sum(a,b):
+#     cube=a**3+b**3
+#     return cube
+# res=cubes_sum(1,2)
+# print(res)
+
+# def simplify(x,y):
+#     simplify=(x-y)**2
+#     return simplify
+# res=simplify(10,6)
+# print(res)
+
+
+# def cubes(x,y):
+#     c=x**3+y**3
+#     return c
+# res=cubes(4,1)
+# print(res)
