@@ -18,6 +18,16 @@
 
 # 5. List support indexing , slicing and follows ordering sequence. 
 
+
+# 1. Creation of list.
+# 2. Updation of list.
+# 3. Indexing 
+# 4. Slicing 
+# 5. Traversing 
+# 6. In-built methods 
+# 7. Test
+# 8. Assignments
+
 # marks_10th=[20,55,60,45,30]
 # print("Before Update : ", marks_10th)
 # marks_10th[0]=200   # mutating list element using index .
@@ -42,4 +52,50 @@
 # marks_10th=[10,20,30,40]
 # i=2-1
 # print(marks_10th[3])
+
+
+# slicing.
+
+# marks=[10,20,30,40,50,60,70,80]
+# #[start-0,stop-1,step-1]
+# sub_list=marks[0:8:2]
+# print(sub_list)
+
+
+# marks=[10,20,30,40,50,60,70,80]
+# #[start-0,stop-1,step-1]
+# sub_list=marks[3:9:2]
+# print(sub_list)
+
+
+# marks=[10,20,30,40,50,60,70,80]
+# #[start-0,stop-1,step-1]
+# sub_list=marks[::-1]
+# print(sub_list)
+
+
+# 6. Traversing
+
+# marks=[10,11,20,31,30,33,40,55,50,60,67]
+# for i in range(len(marks)):
+#     if marks[i]%2==0:
+#         print(f"This elm is even : {marks[i]}")
+#     else:
+#         print(f"This elm is odd : {marks[i]}")
+
+# marks=[10,11,20,31,30,33,40,55,50,60,67]
+# for i in marks:
+#     if i%2==0:
+#         print(f"This elm is even : {i}")
+#     else:
+#         print(f"This elm is odd : {i}")
+
+
+# marks=[10,11,20,31,30,33,40,55,50,60,67]
+# total=0
+# for i in marks:
+#     total=total+i
+# print(total)
+
+
 
