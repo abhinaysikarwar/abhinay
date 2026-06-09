@@ -62,6 +62,7 @@
 # print(sub_list)
 
 
+
 # marks=[10,20,30,40,50,60,70,80]
 # #[start-0,stop-1,step-1]
 # sub_list=marks[3:9:2]
@@ -70,8 +71,9 @@
 
 # marks=[10,20,30,40,50,60,70,80]
 # #[start-0,stop-1,step-1]
-# sub_list=marks[::-1]
+# sub_list=marks[:3:-1]
 # print(sub_list)
+
 
 
 # 6. Traversing
@@ -98,4 +100,6 @@
 # print(total)
 
 
+
+# 7. In-built methods.
 
