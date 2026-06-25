@@ -35,5 +35,5 @@
 # res=odd_even(12)
 # print(res)
 
-res=lambda x,y : x+y
-print(res(10,20))
+# res=lambda x,y : x+y
+# print(res(10,20))
