@@ -74,26 +74,26 @@
 
 
 # ectact all number from paragraph
-para="""
-Lorem Ipsum is simply dummy text of the
-printing and typesetting industry.
-Lorem Ipsum has been the industry's standard
-dummy text ever since 1966, when designers 
-at Letraset and James Mosley, the librarian at 
-St Bride Printing Library in London, took a 1914 
-Cicero translation and scrambled it to make dummy 
-text for Letraset's Body Type sheets.
-"""
+# para="""
+# Lorem Ipsum is simply dummy text of the
+# printing and typesetting industry.
+# Lorem Ipsum has been the industry's standard
+# dummy text ever since 1966, when designers 
+# at Letraset and James Mosley, the librarian at 
+# St Bride Printing Library in London, took a 1914 
+# Cicero translation and scrambled it to make dummy 
+# text for Letraset's Body Type sheets.
+# """
 # only_digit.txt
 
-count_digits=0
-total_char=0
-for i in para:
-    if i in "0123456789":
-        count_digits+=1
-    else:
-        total_char+=1
-with open('stats.txt', "w") as file:
-    file.write(f"Total Digits in file : {count_digits}")
-    file.write("\n")
-    file.write(f"Total chars in file : {total_char}")
+# count_digits=0
+# total_char=0
+# for i in para:
+#     if i in "0123456789":
+#         count_digits+=1
+#     else:
+#         total_char+=1
+# with open('stats.txt', "w") as file:
+#     file.write(f"Total Digits in file : {count_digits}")
+#     file.write("\n")
+#     file.write(f"Total chars in file : {total_char}")
